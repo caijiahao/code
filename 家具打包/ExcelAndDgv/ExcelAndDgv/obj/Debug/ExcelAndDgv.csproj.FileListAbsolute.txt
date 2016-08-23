@@ -1,0 +1,139 @@
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+E:\vs 2013\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+F:\项目练习\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+I:\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+I:\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+I:\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+I:\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+I:\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+C:\项目\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+C:\Users\raoyao\Desktop\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+C:\Users\stevenfen\Desktop\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\Users\stevenfen\Desktop\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\Users\stevenfen\Desktop\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\Users\stevenfen\Desktop\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\Users\stevenfen\Desktop\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+C:\Users\Jorlon\Desktop\提取表格信息\提取表格信息\提取表格信息\提取表格信息\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+E:\ERP\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+E:\ERP\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+E:\ERP\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form2.resources
+E:\ERP\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form3.resources
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form2.resources
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form3.resources
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+E:\ERP\新建文件夹\ExcelAndDgv (2)\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form2.resources
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form3.resources
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+E:\ERP\新建文件夹\ExcelAndDgv\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe.config
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\Interop.JetES.dll
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.ResolveComReference.cache
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.exe
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.pdb
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.exe
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\bin\Debug\ExcelAndDgv.pdb
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csprojResolveAssemblyReference.cache
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form1.resources
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form2.resources
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Form3.resources
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.Properties.Resources.resources
+E:\家具打包\ExcelAndDgv\ExcelAndDgv\obj\Debug\ExcelAndDgv.csproj.GenerateResource.Cache
